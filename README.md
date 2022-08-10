@@ -1,2 +1,2 @@
 # se-demo-external
-Public repository for demo data, configurations, examples, and tutorials
+Public repository for demo data, UI configs, examples, and tutorials
